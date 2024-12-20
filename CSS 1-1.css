@@ -1,0 +1,71 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    color: purple;
+    font-size: 64px;
+    text-align: center;
+    font-weight: 800;
+    margin-bottom: 29px;
+}
+
+main {
+    margin-left: 32px;
+}
+
+#amazing {
+    width: 568px;
+    padding: 24px 40px;
+    background-color: #ffe8e8;
+    color: #ff0000;
+    font-size: 32px;
+    margin-bottom: 32px;
+}
+
+#exclusive_offer {
+    width: 1023px;
+    padding: 24px 40px;
+    text-align: center;
+    font-size: 40px;
+    color: #85647B;
+    margin-bottom: 44px;
+    border-left: 4px solid #C11574;
+    border-right: 6px solid #0055FF;
+    border-bottom: 2px solid #7F56D9;
+    border-top: 2px solid #00C76E;
+}
+
+#season {
+    width: 1023px;
+    padding: 24px 40px;
+    text-align: center;
+    font-size: 40px;
+    color: #414651;
+    margin-bottom: 36px;
+    background-color: #FFE8E8;
+}
+
+#opportunity {
+    width: 1069px;
+    padding: 24px 40px;
+    text-align: center;
+    font-size: 32px;
+    color:#0064CE;
+    margin-bottom: 76px;
+    border: 2px solid #3538CD;
+}
+
+
+
+span {
+    color: red;
+    text-decoration: underline;
+}
+
+img {
+    width: 556px;
+    height: 347px;
+}
